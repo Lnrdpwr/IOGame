@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 486c7fb75148c3841bd085301e273697
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _meatAmountText: {instanceID: 0}
+  - _canvas: {instanceID: 0}
+  - _popup: {instanceID: 0}
+  - _currentModel: {instanceID: 0}
+  - _effect: {fileID: 8878885014295241139, guid: 722534399069a83469abb9ad9a210e8d, type: 3}
+  - _upgrade: {instanceID: 0}
+  - _nameObj: {instanceID: 0}
+  - _sound: {fileID: 8300000, guid: 62c6345d13e27ae448d10b9287f2057d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
